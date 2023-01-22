@@ -1,0 +1,18 @@
+[
+    [
+        "纯净容器（Deepin Wine6 Stable，x86_64）",
+        "deepin-wine6-stable-x86_64-normal.7z"
+    ],
+    [
+        "纯净容器（Deepin Wine6 Stable，I386）",
+        "deepin-wine6-stable-i386-normal.7z"
+    ],
+    [
+        "纯净容器（Deepin Wine2，I386）",
+        "deepin-wine-stable-i386-normal.7z"
+    ],
+    [
+        "纯净容器（Wine0.9.29，I386）",
+        "wine-0.9.29-i386-normal.7z"
+    ]
+]
